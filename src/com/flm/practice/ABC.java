@@ -7,7 +7,7 @@ public class ABC {
 		 String[] wordsCount = string.split(" ");
 
 		 System.out.println("The Given String is:\n" + string + "\n");
-		 System.out.println("After Reverse String is:");
+		
 
 		 for(int i = wordsCount.length;i > 0;i--)
 		 {
