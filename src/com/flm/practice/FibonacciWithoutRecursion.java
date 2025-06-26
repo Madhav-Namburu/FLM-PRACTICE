@@ -18,7 +18,7 @@ public class FibonacciWithoutRecursion {
 			a=b;
 			b=result;
 		}
-		System.out.println(result)
+		System.out.println(result);
 	}
 
 }
